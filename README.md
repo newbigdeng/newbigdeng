@@ -5,7 +5,7 @@
 - 😄 Pronouns: handsome,brilliant,smart and so on;
 - ⚡ Fun fact: ...
 - ***
-<font color"blue">Try to do better</font>
+**Try to do better**
 <!---
 newbigdeng/newbigdeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
