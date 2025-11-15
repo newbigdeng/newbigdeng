@@ -1,7 +1,7 @@
 # Hi, I’m 老毕灯(ZJH)
 - 👀 I’m interested in coding;  
 # 🌱 C++,Lua,CSAPP,数据结构与算法,UE5,游戏开发,游戏引擎,计算机图形学,Vulkan,强化学习;
-# 技术上追求理解底层，从地基慢慢建造大厦，生活上追求对这个世界更高更深刻的认知;
+## 技术上追求理解底层，从地基慢慢建造大厦，生活上追求对这个世界更高更深刻的认知;
 # 经济学,管理学;
 - 📫 How to reach me :Somewhere in earth;
 - 😄 Pronouns: handsome,brilliant,smart and so on;
