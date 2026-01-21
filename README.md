@@ -1,14 +1,12 @@
 # Hi, I’m 老毕灯(ZJH)
 - 👀 I’m interested in coding;  
-# 🌱 C++,Lua,CSAPP,数据结构与算法,UE5,游戏开发,游戏引擎,计算机图形学,Vulkan,强化学习;
+# 🌱 C++,Python,CSAPP,SICP,高性能计算,CUDA,量化,金融,深度强化学习;
 ## 少年没有乌托邦，心向远方自明朗;
-# 经济学,管理学;
+# 经济学,管理学,计算机,数学;
 - 📫 How to reach me :Somewhere in earth;
 - 😄 Pronouns: handsome,brilliant,smart and so on;
 - ⚡ Fun fact: ...
 - ![地基](https://th.bing.com/th/id/OIP.F6djSWbIX-ApR9CLh1qUyQHaEK?w=303&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1)
-- ![Engine](https://th.bing.com/th/id/OIP.X76Dh3RIGZJYjhbspOP2uAHaEJ?w=325&h=181&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1)
-- ![Game](https://th.bing.com/th/id/OIP._8o9FuUULFrtnoOGo7-WngAAAA?w=181&h=181&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1)
 - ***
 **Try to do better**
 [学习网站](https:\\www.bilibili.com)
