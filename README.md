@@ -1,8 +1,8 @@
 # Hi, I’m 老毕灯(ZJH)
 - 👀 I’m interested in coding;  
-# 🌱 C++,Python,CSAPP,SICP,高性能计算,CUDA,量化,金融,深度强化学习;
+# 🌱 C++,Python,CSAPP,Linux,高性能系统,高频交易,量化,金融,深度强化学习;
 ## 少年没有乌托邦，心向远方自明朗;
-# 经济学,管理学,计算机,数学;
+# 经济学,计算机;
 - 📫 How to reach me :Somewhere in earth;
 - 😄 Pronouns: handsome,brilliant,smart and so on;
 - ⚡ Fun fact: ...
