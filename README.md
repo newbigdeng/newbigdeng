@@ -1,8 +1,8 @@
 # Hi, I’m ZJH
 - 👀 I’m interested in coding;  
-# 🌱 C++,Python,CSAPP,Linux,高性能系统,高频交易,量化,金融,深度强化学习;
+# 🌱 C++,CSAPP,Linux,高性能系统,高频交易,量化开发,金融;
 ## 少年没有乌托邦，心向远方自明朗;
-# 经济学,计算机;
+# 经济学,计算机，创业管理;
 - 📫 How to reach me :Somewhere in earth;
 - 😄 Pronouns: handsome,brilliant,smart and so on;
 - ⚡ Fun fact: ...
