@@ -6,7 +6,7 @@
 - 😄 Pronouns: handsome,brilliant,smart and so on;
 - ⚡ Fun fact: ...
 **Try to do better**
-[学习网站](https:\\www.bilibili.com)
+[学习网站](https://www.bilibili.com/)
 - [ ] escape from the world
 <!---
 newbigdeng/newbigdeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
