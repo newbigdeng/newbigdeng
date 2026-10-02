@@ -1,12 +1,34 @@
-## Hi, I’m ZJH
-- 👀 I’m very interested in finance and programming;  
-## 🌱 C++,Linux,低延时系统,量化开发,金融;
-### 少年没有乌托邦，心向远方自明朗;
-- 📫 How to reach me :Somewhere in earth;
-- 😄 Pronouns: handsome,brilliant,smart and so on;
-- ⚡ Fun fact: ...
-**Try to do better**
-[学习网站](https://www.bilibili.com/)
+# 你好，我是 Zhu JianHao 👋
+
+> 少年没有乌托邦，心向远方自明朗。
+
+我是一名学生，正在计算机技术、金融交易、企业管理和心理学的交叉地带慢慢摸索。
+
+我喜欢理解事物背后的运行逻辑：一段代码为什么快，一个市场为什么波动，一个组织为什么能持续做成事，一个人为什么会在关键时刻做出某种选择。比起把自己塞进某个单一标签，我更想在这些问题之间来回穿梭，找到属于自己的长期方向。
+
+## 我在关注什么
+
+- **计算机技术**：喜欢底层系统、工程实践，也喜欢把想法变成真正能运行的东西。
+- **金融交易**：对市场、风险、决策和行为金融感兴趣，也在慢慢培养自己的交易系统。
+- **企业管理**：关心组织协作、工程文化、创新和长期主义。
+- **心理学**：对认知、情绪、动机和决策偏差感兴趣，也在学习更好地理解自己。
+
+## 现在的我
+
+- 学生，处在大量输入、慢慢输出的阶段；
+- 对世界保持好奇，也接受自己还在探索；
+- 相信诚实、长期主义和持续改进；
+- 希望未来能做出一些真正有价值、经得起时间检验的东西。
+
+## 一句话
+
+**Try to do better.**
+
+## 联系
+
+- 邮箱：zixun4321@163.com
+
+如果你也对技术、交易、组织或心理感兴趣，欢迎交流。  
 - [ ] escape from the world
 <!---
 newbigdeng/newbigdeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
