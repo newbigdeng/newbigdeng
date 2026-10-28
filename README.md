@@ -29,6 +29,7 @@
 - 邮箱：zixun4321@163.com
 
 如果你也对技术、交易、组织或心理感兴趣，欢迎交流。  
+[个人网站](https://zjh2quant.online/)
 - [ ] Escape the world.
 <!---
 newbigdeng/newbigdeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
