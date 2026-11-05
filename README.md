@@ -19,7 +19,7 @@
 - 对世界保持好奇，也接受自己还在探索；
 - 相信诚实、长期主义和持续改进；
 - 希望未来能做出一些真正有价值、经得起时间检验的东西🪙；
-- 健身💪，跑步🏃以及足球⚽。
+- 健身💪，跑步🏃以及足球⚽。未来也有做动画(2D/3D)的想法。
 ## 一句话
 
 **Try to do better.**
@@ -28,8 +28,8 @@
 
 - 邮箱：zixun4321@163.com
 
-如果你也对技术、交易、组织或心理感兴趣，欢迎交流。  
-[个人网站](https://zjh2quant.online/)
+如果你也对技术、交易、组织或心理感兴趣，欢迎交流。    
+[个人网站](https://zjh2quant.online/)  
 - [ ] Escape the world.
 <!---
 newbigdeng/newbigdeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
